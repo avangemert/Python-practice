@@ -1,4 +1,4 @@
 # Anagram
 
-Script to find anagrams within list of words.
+Python script to find anagrams within list of words.
 
