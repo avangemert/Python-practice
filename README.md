@@ -1,4 +1,4 @@
 # Anagram
 
-Script finds anagrams within list and groups them together. 
+Script to find anagrams within list of words.
 
